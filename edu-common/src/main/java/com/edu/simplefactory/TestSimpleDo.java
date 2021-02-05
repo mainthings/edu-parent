@@ -10,8 +10,8 @@ public class TestSimpleDo {
 
     public static void main(String[] args) {
              HrFactory hrFactory=new HrFactory();
-             // JAVA JS C
-             SimpleDo simpleDo=hrFactory.getFactory("C");
-             simpleDo.doing();
+             // JAVA JS Net
+             ItDo itDo =hrFactory.getFactory("Net");
+             itDo.doing();
     }
 }

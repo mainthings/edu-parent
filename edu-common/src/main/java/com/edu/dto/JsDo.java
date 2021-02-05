@@ -1,4 +1,6 @@
-package com.edu.simplefactory;
+package com.edu.dto;
+
+import com.edu.simplefactory.ItDo;
 
 /**
  * @Description TODO
@@ -6,7 +8,7 @@ package com.edu.simplefactory;
  * @Date: 2021/2/5 10:25
  * @Version 1.0
  */
-public class JsDo implements SimpleDo {
+public class JsDo implements ItDo {
 
 
     @Override

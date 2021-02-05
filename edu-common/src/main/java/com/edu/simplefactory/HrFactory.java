@@ -1,5 +1,9 @@
 package com.edu.simplefactory;
 
+import com.edu.dto.NetDo;
+import com.edu.dto.JavaDo;
+import com.edu.dto.JsDo;
+
 /**
  * @Description TODO
  * @author: GT
@@ -9,17 +13,17 @@ package com.edu.simplefactory;
 public class HrFactory {
 
 
-    public SimpleDo getFactory(String person){
-        SimpleDo simpleDo=null;
+    public ItDo getFactory(String person){
+        ItDo itDo =null;
         if("JS".endsWith(person)){
-            simpleDo = new JsDo();
+            itDo = new JsDo();
         }else if("JAVA".equals(person)){
-            simpleDo = new JavaDo();
-        }else if("C".equals(person)){
-            simpleDo = new Cdo();
+            itDo = new JavaDo();
+        }else if("Net".equals(person)){
+            itDo = new NetDo();
         }else {
             System.out.println("没有合适的程序员哦！！！");
         }
-        return simpleDo;
+        return itDo;
     }
 }
