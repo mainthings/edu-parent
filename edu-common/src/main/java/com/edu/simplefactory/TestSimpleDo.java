@@ -13,6 +13,5 @@ public class TestSimpleDo {
              // JAVA JS C
              SimpleDo simpleDo=hrFactory.getFactory("C");
              simpleDo.doing();
-
     }
 }
