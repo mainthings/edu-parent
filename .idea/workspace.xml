@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cee4a46-60b1-4276-b85b-527faeca8818" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/edu-common/src/main/java/com/edu/dto/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/edu-common/src/main/java/com/edu/dto/Net.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu-common/src/main/java/com/edu/simplefactory/Cdo.java" beforeDir="false" afterPath="$PROJECT_DIR$/edu-common/src/main/java/com/edu/dto/NetDo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu-common/src/main/java/com/edu/simplefactory/HrFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/edu-common/src/main/java/com/edu/simplefactory/HrFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu-common/src/main/java/com/edu/simplefactory/JavaDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/edu-common/src/main/java/com/edu/dto/JavaDo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu-common/src/main/java/com/edu/simplefactory/JsDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/edu-common/src/main/java/com/edu/dto/JsDo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu-common/src/main/java/com/edu/simplefactory/SimpleDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/edu-common/src/main/java/com/edu/simplefactory/ItDo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu-common/src/main/java/com/edu/simplefactory/TestSimpleDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/edu-common/src/main/java/com/edu/simplefactory/TestSimpleDo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edu-common/src/test/java/TestStrategyRouter.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="0ff24b82-38a8-49fc-8401-a4186fba5c46" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="Y:\java\study" />
+        <option value="Y:\java\study\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../java_tools/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="Y:\java\java_tools\apache-maven-3.6.1\conf\settings111.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ng69km0vEwXLe5597cc1ZNj8cI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/edu-common/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.49770114" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Y:\java\study\edu-common\src\main\resources" />
+      <recent name="Y:\java\study\edu-common\src\main\java\com\edu\strategy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FactoryMethodTest">
+    <configuration name="FactoryMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edu.factorymethod.FactoryMethodTest" />
+      <module name="edu-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RootRouter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edu.strategy.RootRouter" />
+      <module name="edu-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSimpleDo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.edu.simplefactory.TestSimpleDo" />
+      <module name="edu-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.dto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStrategyRouter.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="edu-common" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestStrategyRouter" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="edu-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.edu.EduCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FactoryMethodTest" />
+        <item itemvalue="Spring Boot.EduCommonApplication" />
+        <item itemvalue="JUnit.TestStrategyRouter.get" />
+        <item itemvalue="Application.TestSimpleDo" />
+        <item itemvalue="Application.RootRouter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cee4a46-60b1-4276-b85b-527faeca8818" name="Default Changelist" comment="" />
+      <created>1611799237818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611799237818</updated>
+      <workItem from="1611799239219" duration="7144000" />
+      <workItem from="1612490603277" duration="7604000" />
+    </task>
+    <task id="LOCAL-00001" summary="简单工厂">
+      <created>1612494883453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612494883453</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="简单工厂" />
+    <option name="LAST_COMMIT_MESSAGE" value="简单工厂" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="181" key="#CloudFoundry" timestamp="1611799525242">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="181" key="#CloudFoundry/0.0.1536.824@0.0.1536.824" timestamp="1611799525242" />
+    <state x="361" y="74" key="#Project_Structure" timestamp="1611802707204">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1611802707204" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1612508797642">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1612508797642" />
+    <state x="469" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1612509810362">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="469" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1612509810362" />
+    <state x="385" y="11" key="CommitChangelistDialog2" timestamp="1612509867079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="385" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1612509867079" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1612492443508">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1612492443508" />
+    <state x="635" y="308" width="273" height="207" key="Github.ShareDialog" timestamp="1612493734320">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="635" y="308" width="273" height="207" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1612493734320" />
+    <state x="569" y="119" key="Github.UntrackedFilesDialog" timestamp="1612492937533">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="569" y="119" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1612492937533" />
+    <state width="1493" height="200" key="GridCell.Tab.0.bottom" timestamp="1612509918498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612509918498" />
+    <state width="1493" height="200" key="GridCell.Tab.0.center" timestamp="1612509918497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1612509918497" />
+    <state width="1493" height="200" key="GridCell.Tab.0.left" timestamp="1612509918497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1612509918497" />
+    <state width="1493" height="200" key="GridCell.Tab.0.right" timestamp="1612509918497">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1612509918497" />
+    <state width="1493" height="171" key="GridCell.Tab.1.bottom" timestamp="1611816821399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611816821399" />
+    <state width="1493" height="171" key="GridCell.Tab.1.center" timestamp="1611816821398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1611816821398" />
+    <state width="1493" height="171" key="GridCell.Tab.1.left" timestamp="1611816821398">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1611816821398" />
+    <state width="1493" height="171" key="GridCell.Tab.1.right" timestamp="1611816821399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="171" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1611816821399" />
+    <state x="272" y="58" key="SettingsEditor" timestamp="1612493701411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1612493701411" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1612509870327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612509870327" />
+    <state x="474" y="215" key="git4idea.merge.GitPullDialog" timestamp="1612494855680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="474" y="215" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1612494855680" />
+    <state x="178" y="58" key="new project wizard" timestamp="1611799751803">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="58" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1611799751803" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/edu_parent$TestStrategyRouter_get.ic" NAME="TestStrategyRouter.get Coverage Results" MODIFIED="1611801986138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
