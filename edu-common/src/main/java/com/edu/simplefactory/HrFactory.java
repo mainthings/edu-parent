@@ -26,4 +26,8 @@ public class HrFactory {
         }
         return itDo;
     }
+
+    public static void main(String[] args) {
+
+    }
 }
